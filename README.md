@@ -222,7 +222,7 @@ sudo systemctl start docker
 To grant access to your user to run the docker command, you should add the user to the Docker Linux group. Docker group is create by default when docker is installed.
 
 ```
-sudo usermod -aG docker ubuntu
+sudo usermod -aG docker $USER
 newgrp docker
 ```
 

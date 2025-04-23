@@ -1,10 +1,12 @@
-# Repo to learn Docker with examples. Contributions are most welcome.
-
-## If you found this repo useful, give it a STAR 🌠
-
-You can watch the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
-
-
+## Define DevOps
+DevOps is a set of practices, principles, and cultural philosophies that aims to improve collaboration between software Development(Dev) and IT operations(Ops) teams.
+The goal is to automate, streamline, and accelerate the software delivery process ensuring high quality, reliability, and security.
+### Key Aspects of DevOps
+1. Collaboration & Culture
+2. Automation
+3. Continuous Integration & Continuous Delivery(CI/CD)
+4. Infrastructure as Code(IaC)
+5. Monitoring & Feedback
 ## What is a container ?
 
 A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
